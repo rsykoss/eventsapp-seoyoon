@@ -17,7 +17,7 @@ spec:
        ver: v1.0
    spec:
      containers:
-     - image: apacuser110/events-api:v1.0
+     - image: apacuser110/events-api:v3.0
        name: events-api
        ports:
        - containerPort: 8082
